@@ -1,0 +1,29 @@
+h3{
+    font-style: oblique;
+    justify-content: space-between;
+    color: rgb(229, 194, 206);
+    
+}
+
+.header{
+    background-color: rgb(247, 224, 228);
+    display: flex;
+    padding: 50px;
+    justify-content: space-evenly
+}
+
+.grid{
+    background-color: rgb(247, 224, 228);
+    display: flex;
+    padding: 50px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+a:link{
+    color:rgb(223, 59, 86)
+}
+
+a:visited{
+    color: rgb(212, 154, 163);
+}
